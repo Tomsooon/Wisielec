@@ -11,6 +11,7 @@ public class Wisielec {
 
     static char[] userword;
     static String word;
+   
     public static void play() {
 
         Scanner scanner = new Scanner(System.in);
@@ -50,7 +51,6 @@ public class Wisielec {
         return false;
 
     }
-
 
 
 }
